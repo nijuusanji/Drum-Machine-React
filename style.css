@@ -1,0 +1,19 @@
+body {
+    margin:0;
+    background-color:#b2bec3;
+    color:black;
+    padding:0;
+  }
+  
+.showgrid {
+    width: 480px;
+    margin: auto;
+  }
+  
+#top{
+    margin-top:30px;
+  }
+
+.drum-pad{
+    background-color:#0984e3;
+}
